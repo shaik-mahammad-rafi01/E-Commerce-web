@@ -38,4 +38,3 @@ Follow these steps to set-up the project in your local machine.
  npm start
 
 
- 
