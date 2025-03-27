@@ -11,7 +11,7 @@
 6. Customer Support
 7. Order Tracking
 
-### Teck Stack
+### Tech Stack
 
 1. For Front-End Designing of website we used these technologies : 
   - HTML (Hyper Text Markup Launguage)
@@ -28,6 +28,11 @@
 ### Installation and setup Guide 
 
 Follow these steps to set-up the project in your local machine.
+
+Clone the repository :
+```bash
+clone  https://github.com
+```
 
 - To Install The Denpendencies 
 
